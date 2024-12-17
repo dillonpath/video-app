@@ -8,7 +8,7 @@ import {getFunctions} from "firebase/functions";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAVPX_SvMivKkdoyyBFGB18g2-yVDduuO4",
+  apiKey: "#",
   authDomain: "video-service-d568a.firebaseapp.com",
   projectId: "video-service-d568a",
   appId: "1:859827162321:web:4989b0d3c2f316680ec9f0",
